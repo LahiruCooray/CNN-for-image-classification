@@ -1,4 +1,4 @@
-##Final and correct Jupyter Notebook files are within the main.py
+## Final and correct Jupyter Notebook files are within the main.py
 # Please Note: 
 
 # CNN-for-image-classification
