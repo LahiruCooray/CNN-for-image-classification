@@ -13,9 +13,8 @@ We used Python with TensorFlow and Keras for their ease in building and training
 # Please Note: 
 - **Team Contributions**:
   - We divided the assignment two sections, **Custom CNN creation and comparison with SOTA networks** wihtin the team members and have created two seperate codes for the sections.
-  - These are named "....."
 
 - **GitHub Updates**:
   - Discarded some codes due to errors or poor accuracy.
-  - Final and correct Jupyter Notebook files are within the main.py
+  - Final and correct files are within the Main folder
 
